@@ -1,0 +1,19 @@
+.\objects\motors.o: ..\BSP\Motors\motors.c
+.\objects\motors.o: ..\BSP\Motors\motors.h
+.\objects\motors.o: ..\SYSTEM\SYSTEM\sys.h
+.\objects\motors.o: ..\USER\stm32f10x.h
+.\objects\motors.o: ..\CORE\core_cm3.h
+.\objects\motors.o: D:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\motors.o: ..\USER\system_stm32f10x.h
+.\objects\motors.o: ..\USER\stm32f10x_conf.h
+.\objects\motors.o: ..\STM32F10x_FWLib\inc\stm32f10x_adc.h
+.\objects\motors.o: ..\USER\stm32f10x.h
+.\objects\motors.o: ..\STM32F10x_FWLib\inc\stm32f10x_dma.h
+.\objects\motors.o: ..\STM32F10x_FWLib\inc\stm32f10x_flash.h
+.\objects\motors.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+.\objects\motors.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+.\objects\motors.o: ..\STM32F10x_FWLib\inc\stm32f10x_spi.h
+.\objects\motors.o: ..\STM32F10x_FWLib\inc\stm32f10x_tim.h
+.\objects\motors.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+.\objects\motors.o: ..\STM32F10x_FWLib\inc\misc.h
+.\objects\motors.o: ..\BSP\Systick\SysTick.h

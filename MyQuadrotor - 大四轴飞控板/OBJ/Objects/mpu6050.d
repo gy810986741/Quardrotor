@@ -1,0 +1,20 @@
+.\objects\mpu6050.o: ..\BSP\MPU6050\MPU6050.c
+.\objects\mpu6050.o: ..\BSP\MPU6050\MPU6050.h
+.\objects\mpu6050.o: ..\SYSTEM\SYSTEM\sys.h
+.\objects\mpu6050.o: ..\USER\stm32f10x.h
+.\objects\mpu6050.o: ..\CORE\core_cm3.h
+.\objects\mpu6050.o: D:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\mpu6050.o: ..\USER\system_stm32f10x.h
+.\objects\mpu6050.o: ..\USER\stm32f10x_conf.h
+.\objects\mpu6050.o: ..\STM32F10x_FWLib\inc\stm32f10x_adc.h
+.\objects\mpu6050.o: ..\USER\stm32f10x.h
+.\objects\mpu6050.o: ..\STM32F10x_FWLib\inc\stm32f10x_dma.h
+.\objects\mpu6050.o: ..\STM32F10x_FWLib\inc\stm32f10x_flash.h
+.\objects\mpu6050.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+.\objects\mpu6050.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+.\objects\mpu6050.o: ..\STM32F10x_FWLib\inc\stm32f10x_spi.h
+.\objects\mpu6050.o: ..\STM32F10x_FWLib\inc\stm32f10x_tim.h
+.\objects\mpu6050.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+.\objects\mpu6050.o: ..\STM32F10x_FWLib\inc\misc.h
+.\objects\mpu6050.o: ..\BSP\IIC\Analog_IIC.h
+.\objects\mpu6050.o: ..\BSP\EEPROM\eeprom.h

@@ -1,0 +1,19 @@
+.\objects\hmc5883l.o: ..\BSP\HMC5883L\HMC5883L.c
+.\objects\hmc5883l.o: ..\BSP\HMC5883L\HMC5883L.h
+.\objects\hmc5883l.o: ..\SYSTEM\SYSTEM\sys.h
+.\objects\hmc5883l.o: ..\USER\stm32f10x.h
+.\objects\hmc5883l.o: ..\CORE\core_cm3.h
+.\objects\hmc5883l.o: D:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\hmc5883l.o: ..\USER\system_stm32f10x.h
+.\objects\hmc5883l.o: ..\USER\stm32f10x_conf.h
+.\objects\hmc5883l.o: ..\STM32F10x_FWLib\inc\stm32f10x_adc.h
+.\objects\hmc5883l.o: ..\USER\stm32f10x.h
+.\objects\hmc5883l.o: ..\STM32F10x_FWLib\inc\stm32f10x_dma.h
+.\objects\hmc5883l.o: ..\STM32F10x_FWLib\inc\stm32f10x_flash.h
+.\objects\hmc5883l.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+.\objects\hmc5883l.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+.\objects\hmc5883l.o: ..\STM32F10x_FWLib\inc\stm32f10x_spi.h
+.\objects\hmc5883l.o: ..\STM32F10x_FWLib\inc\stm32f10x_tim.h
+.\objects\hmc5883l.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+.\objects\hmc5883l.o: ..\STM32F10x_FWLib\inc\misc.h
+.\objects\hmc5883l.o: ..\BSP\IIC\Analog_IIC.h

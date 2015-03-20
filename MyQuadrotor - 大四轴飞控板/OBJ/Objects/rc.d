@@ -1,0 +1,19 @@
+.\objects\rc.o: ..\APP\Rc\Rc.c
+.\objects\rc.o: ..\APP\Rc\Rc.h
+.\objects\rc.o: ..\SYSTEM\SYSTEM\sys.h
+.\objects\rc.o: ..\USER\stm32f10x.h
+.\objects\rc.o: ..\CORE\core_cm3.h
+.\objects\rc.o: D:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\rc.o: ..\USER\system_stm32f10x.h
+.\objects\rc.o: ..\USER\stm32f10x_conf.h
+.\objects\rc.o: ..\STM32F10x_FWLib\inc\stm32f10x_adc.h
+.\objects\rc.o: ..\USER\stm32f10x.h
+.\objects\rc.o: ..\STM32F10x_FWLib\inc\stm32f10x_dma.h
+.\objects\rc.o: ..\STM32F10x_FWLib\inc\stm32f10x_flash.h
+.\objects\rc.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+.\objects\rc.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+.\objects\rc.o: ..\STM32F10x_FWLib\inc\stm32f10x_spi.h
+.\objects\rc.o: ..\STM32F10x_FWLib\inc\stm32f10x_tim.h
+.\objects\rc.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+.\objects\rc.o: ..\STM32F10x_FWLib\inc\misc.h
+.\objects\rc.o: ..\BSP\LED\Led.h
